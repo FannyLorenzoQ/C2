@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JAMS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title1">Tasks</string>
+    <string name="fr02">PROFILE</string>
+    <string name="fr02_state">State</string>
+    <string name="fr02_number">Number Phone</string>
+    <string name="fr02_sdress">Adress</string>
+    <string name="fr03">PROJECTS</string>
+    <string name="fr03_py1">University</string>
+    <string name="fr03_py2">Home</string>
+    <string name="fr03_py3">Work</string>
+    <string name="fr04">ADD PROJECT</string>
+    <string name="fr05">TASKS</string>
+    <string name="task_name">Name</string>
+    <string name="task_start">Date start</string>
+    <string name="task_end">Date end</string>
+    <string name="task_level">Level</string>
+    <string name="fr06">ADD TASK</string>
+    <string name="fr07">CALENDAR</string>
+    <string name="task_level1">High</string>
+    <string name="task_level2">Middle</string>
+    <string name="task_level3">Low</string>
+    <string name="task_description">Description</string>
+    <string name="task_side">Side</string>
+    <string name="boton_submit">SAVE</string>
+    <string name="label_level">Choose a level</string>
+    <string name="label_project">Chose a project</string>
+    <string name="project_title">Title</string>
+    <string name="project_description">Description</string>
+    <string name="project_responsible">Responsible</string>
+    <string name="fr08">AGENDA</string>
+    <string name="fr09">MAP</string>
+    <string name="task_responsible">Responsible</string>
+    <string name="task_project">Project</string>
+    <string name="fr11">WELCOME TO JAMS</string>
+    <string name="fr11_email">Email</string>
+    <string name="fr11_password">Password</string>
+    <string name="boton_sigIn">SIGN IN</string>
+</resources>

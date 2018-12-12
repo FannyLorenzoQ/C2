@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_index"
+            android:icon="@drawable/icon_home32"
+            android:title="@string/app_name" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/icon_profile32"
+            android:title="@string/fr02" />
+        <item
+            android:id="@+id/nav_projects"
+            android:icon="@drawable/icon_project32"
+            android:title="@string/fr03" />
+        <item
+            android:id="@+id/nav_addProjects"
+
+            android:title="@string/fr04" />
+        <item
+            android:id="@+id/nav_tasks"
+            android:icon="@drawable/icon_task32"
+            android:title="@string/fr05" />
+        <item
+            android:id="@+id/nav_addTasks"
+
+            android:title="@string/fr06" />
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/icon_calendar32"
+            android:title="@string/fr07" />
+        <item
+            android:id="@+id/nav_agenda"
+            android:icon="@drawable/icon_agenda32"
+            android:title="@string/fr08" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/icon_map32"
+            android:title="@string/fr09" />
+    </group>
+
+
+
+</menu>

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">JAMS</string>
+    <string name="navigation_drawer_open">Abrir el cajon de navegacion</string>
+    <string name="navigation_drawer_close">Cerrar el cajon de navegacion</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <!-- Strings creados por mua -->
+
+    <string name="fr02">PERFIL</string>
+
+    <string name="fr03">PROYECTOS</string>
+        <string name="fr03_py1">Universidad</string>
+        <string name="fr03_py2">Hogar</string>
+
+    <string name="fr04">AGREGAR PROYECTO</string>
+        <string name="project_title">Título</string>
+        <string name="project_description">Descripción</string>
+        <string name="project_responsible">Responsable</string>
+
+    <string name="fr05">TAREAS</string>
+        <string name="task_name">Nombre</string>
+    <string name="task_end">Fecha de fin</string>
+
+    <string name="fr06">AGREGAR TAREA</string>
+
+    <string name="task_description">Descripción</string>
+    <string name="task_responsible">Responsable</string>
+    <string name="label_level">Elige un nivel</string>
+    <string name="label_project">Elige un proyecto</string>
+    <string name="task_level2">Medio</string>
+    <string name="task_project">Proyecto</string>
+
+
+    <string name="fr07">CALENDARIO</string>
+    <string name="fr08">AGENDA</string>
+    <string name="fr09">MAPA</string>
+
+    <string name="fr11_email">Correo</string>
+    <string name="fr11_password">Contraseña</string>
+    <!-- Fin de Strings creados por mua -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title1">TAREAS</string>
+    <string name="fr02_state">Estado</string>
+    <string name="fr02_number">Número telefónico</string>
+    <string name="fr02_sdress">Dirección</string>
+    <string name="fr03_py3">Trabajo</string>
+    <string name="task_start">Fecha de inicio</string>
+    <string name="task_level">Nivel</string>
+    <string name="task_level1">Alto</string>
+    <string name="task_level3">Bajo</string>
+    <string name="task_side">Lugar</string>
+    <string name="boton_submit">GUARDAR</string>
+    <string name="nav_header_desc">Cabecera del navegador</string>
+    <string name="boton_sigIn">REGISTRARSE</string>
+    <string name="fr11">BIENVENIDO A JAMS</string>
+</resources>
